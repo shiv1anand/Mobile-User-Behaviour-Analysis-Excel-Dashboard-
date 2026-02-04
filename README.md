@@ -89,7 +89,7 @@ The dataset contains behavioural and demographic data of mobile users including:
 ---
 
 ## 📷 Dashboard Preview
-<img src="dashboard.png" width="800">
+<img src="Excell Dashboard" width="800">
 
 
 ---
